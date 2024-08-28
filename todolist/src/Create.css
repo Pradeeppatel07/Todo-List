@@ -1,0 +1,16 @@
+.create input{
+    width: 270px;
+    height: 25px;
+    border: solid black 2px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.create button{
+    width: 50px;
+    height: 32px;
+    background-color: black;
+    color: white;
+    margin-left: 2px;
+    border-radius: 5px;
+    cursor: pointer;
+}
